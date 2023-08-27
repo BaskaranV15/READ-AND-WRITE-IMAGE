@@ -1,4 +1,3 @@
-![dig1](https://github.com/BaskaranV15/READ-AND-WRITE-IMAGE/assets/118703522/dc60feb8-1405-4644-b2fe-cf1830017e86)# READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 i) Read, display, and write an image.
