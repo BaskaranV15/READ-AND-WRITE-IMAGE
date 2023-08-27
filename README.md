@@ -77,7 +77,8 @@ file:///home/sec/image1.png
 ### ii)Write the image
 file:///home/sec/image1.png
 
-### iii)
+### iii)Find the shape of the Image
+
 file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-08-27%2014-04-50.png
 Shape of the Image
 
