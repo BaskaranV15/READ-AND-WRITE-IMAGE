@@ -18,8 +18,8 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By:BASKARAN.V
+### Register Number: 212222230020
 i) #To Read,display the image
 ```
 import cv2
@@ -78,8 +78,7 @@ cv2.waitKey(0)
 ![Screenshot from 2023-08-27 14-04-50](https://github.com/BaskaranV15/READ-AND-WRITE-IMAGE/assets/118703522/92acc9a9-30fc-408d-87de-056e9d72d09f)
 
 ### iv)Access rows and columns
-
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-08-24%2021-40-56.png
+![123](https://github.com/BaskaranV15/READ-AND-WRITE-IMAGE/assets/118703522/2de6fc66-b6bf-44d7-87ed-884d9d8c085e)
 
 ### v)Cut and paste portion of image
 ![Screenshot from 2023-08-24 22-30-13](https://github.com/BaskaranV15/READ-AND-WRITE-IMAGE/assets/118703522/8e72cd20-76f4-44f7-90b1-75c5eedc7b0a)
