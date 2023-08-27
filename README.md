@@ -1,4 +1,4 @@
-# READ AND WRITE AN IMAGE
+![dig1](https://github.com/BaskaranV15/READ-AND-WRITE-IMAGE/assets/118703522/dc60feb8-1405-4644-b2fe-cf1830017e86)# READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 i) Read, display, and write an image.
@@ -71,22 +71,20 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-
-file:///home/sec/image1.png
+![dig1](https://github.com/BaskaranV15/READ-AND-WRITE-IMAGE/assets/118703522/ede8c40b-2e0a-4f5d-8503-24c8b32db96b)
 
 ### ii)Write the image
-file:///home/sec/image1.png
-
+![dig1](https://github.com/BaskaranV15/READ-AND-WRITE-IMAGE/assets/118703522/e3928f5c-7736-4005-8ba2-3ed7ca9b69ad)
 ### iii)Find the shape of the Image
-
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-08-27%2014-04-50.png
-Shape of the Image
+![Screenshot from 2023-08-27 14-04-50](https://github.com/BaskaranV15/READ-AND-WRITE-IMAGE/assets/118703522/92acc9a9-30fc-408d-87de-056e9d72d09f)
 
 ### iv)Access rows and columns
+
 file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-08-24%2021-40-56.png
 
 ### v)Cut and paste portion of image
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-08-24%2022-30-13.png
+![Screenshot from 2023-08-24 22-30-13](https://github.com/BaskaranV15/READ-AND-WRITE-IMAGE/assets/118703522/8e72cd20-76f4-44f7-90b1-75c5eedc7b0a)
+
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
